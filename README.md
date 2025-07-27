@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinit Tiwari</h1>
-<h3 align="center">Software Developer at Siemens | Python | DevOps | Automation</h3>
+<h3 align="center">Software Developer at Siemens | Web Developer | Python | DevOps | Automation</h3>
 
 ---
 
